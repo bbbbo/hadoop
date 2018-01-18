@@ -7,4 +7,4 @@
 * 단순한 데이터 모델
   * key/value pair
 * HDFS
-* MapReduce 
+* MapReduce
